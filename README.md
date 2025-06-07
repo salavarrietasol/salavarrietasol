@@ -1,4 +1,5 @@
-### ¡Hola! Soy Sol 🌞
+### <img src="https://github.com/salavarrietasol/salavarrietasol/blob/main/portadaa.jpg" alt="Bienvenida" width="100%"/>
+###  ¡Hola! Soy Sol 🌞
 
 Soy una desarrolladora Junior de Medellín, Colombia 
 
