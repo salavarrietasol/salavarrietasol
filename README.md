@@ -1,4 +1,4 @@
-### <img src="https://github.com/salavarrietasol/salavarrietasol/blob/main/portadaa.jpg" alt="Bienvenida" width="100%"/>
+### <img src="BLack Minimalist Corporate Staff Identity LinkedIn Banner.png" alt="Bienvenida" width="100%"/>
 ###  ¡Hola! Soy Sol 🌞
 
 Soy una desarrolladora Junior de Medellín, Colombia 
