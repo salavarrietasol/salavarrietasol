@@ -13,8 +13,11 @@ Soy una desarrolladora Junior de Medellín, Colombia
 ---
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salavarrietasol)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salavarrietasol&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salavarrietasol&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 
